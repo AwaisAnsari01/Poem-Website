@@ -1,0 +1,109 @@
+.poem-one-style{
+    color: #0f7c7c;
+    margin: 1px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+#div-one{
+background-color: rgb(3, 117, 117);
+padding-top: 25px;
+padding-bottom: 25px;
+color: white;
+word-spacing: 100px;
+font-size: xx-large;
+font-weight: bolder;
+
+}
+#p1:hover{
+color: aquamarine;
+/* text-decoration: none; */
+}
+#p2:hover{
+    color: aquamarine;
+    /* text-decoration: none; */
+}
+#p3:hover{
+    color: aquamarine;
+    /* text-decoration: none; */
+}
+#p4:hover{
+    color: aquamarine;
+}
+#p5:hover{
+    color: aquamarine;
+}
+#p6:hover{
+    color: aquamarine;
+}
+#p-one{
+    color: white;
+    font-size: xx-large;
+    margin-top: 200px;
+}
+#p-one:hover{
+    color: red;
+}
+.head{
+    color: white;
+    font-family: 'Rubik Maps', system-ui;
+    font-weight: bolder;
+    font-size: 70px;
+    margin-top: 100px;
+    color: aqua;
+}
+#green{
+    color: green;
+}
+#red{
+    color: brown;
+    font-family: 'Poppins', sans-serif;
+}
+.poem-two-style{
+    color: #0f7c7c;
+    font-family: 'Salsa', cursive;
+    margin: 1px;
+
+}
+#yellow{
+    color: yellow;
+    font-family: 'Salsa', cursive;
+}
+#head-two{
+    color: orangered;
+    font-family: 'Salsa', cursive;
+    font-weight: bolder;
+    font-size: 70px;
+    margin-top: 100px;
+}
+.poem-three-style{
+    font-size: xx-large;
+    color: #0f7c7c;
+    margin: 1px;
+
+}
+#head-three{
+    color: red;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+    margin-top: 100px;
+}
+#head-four{
+    color: rgb(187, 84, 118);
+    font-weight: bolder;
+    font-size: 70px;
+    margin-top: 100px;
+    font-family: 'Oswald', sans-serif;
+}
+#blue{
+    color: blue;
+    font-family: 'Oswald', sans-serif;
+}
+.poem-four-style{
+    font-size: xx-large;
+    color: #0f7c7c;
+    margin: 1px;
+}
